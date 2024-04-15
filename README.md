@@ -1,2 +1,2 @@
 # RecMG
-RecMG SC24 Submission AD
+RecMG Artifact Description
