@@ -1,4 +1,4 @@
-# dlrm_embedding_temp
+# RecMG_models
     .
     ├── models                                               # model chk (train cache model and prefetch model pt file)
     ├── results                                              # training process intermediate result
