@@ -1,7 +1,8 @@
 ## DLRM 
 
 This repository is RecMG's implementation with industrial level DLRM, and we use docker containers to increase reproducibility for users.
-Docker image address for ReMG with industrial DLRM:
+
+
 [DockerHub] https://hub.docker.com/repository/docker/binkma/rec_mg/general
 
 ### Download 
